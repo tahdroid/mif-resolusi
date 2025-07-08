@@ -6,3 +6,5 @@ MIF RESOLUSI
 - Konsisten untuk sholat dhuha
 - Konsisten untuk sholat sunnah qobliyah dan ba'diyah
 - Konsisten untuk membuat ringkasan materi kajian/tutorial
+- Membuat aplikasi administrasi siswa
+- Kolaborasi dengan expert
