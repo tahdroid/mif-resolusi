@@ -4,6 +4,9 @@ RENCANA KONTEN MIF
   * Tafsir Surat Abasa
   * Adabul 'Alim wal Muta'alim
     ^ Menjaga silaturrahim
-    ^ Menghormati Guru
+    ^ Belajar Menghormati Guru
+    ^ Buku Adabul 'Alim wal Muta'alim
 - Tips public speaking (Feed IG)
-    ^ Buku Public Speaking
+  ^ Buku Public Speaking
+- Membuat Modul Fisika
+- Belajar Python
