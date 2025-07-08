@@ -3,5 +3,8 @@ RENCANA KONTEN MIF
 - Materi kajian A (Feed IG)
   * Tafsir Surat Abasa
   * Adabul 'Alim wal Muta'alim
+    ^ Buku Adabul 'Alim wal Muta'alim
 - Tips public speaking (Feed IG)
+  ^ Buku Public Speaking
 - Membuat Modul Fisika
+- Belajar Python 
